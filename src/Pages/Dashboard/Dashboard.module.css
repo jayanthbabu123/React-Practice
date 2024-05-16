@@ -1,0 +1,38 @@
+.text {
+  color: red;
+  font-size: 30px;
+}
+
+.title {
+  color: blue;
+  font-size: 30px;
+}
+
+.subtitle {
+  color: green;
+  font-size: 30px;
+}
+
+#name {
+  color: red;
+}
+
+.bluebox {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  background-color: blue;
+  margin-bottom: 20px;
+  margin-top: 20px;
+
+}
+
+.redBox {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  background-color: red;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  
+}
